@@ -19,7 +19,7 @@ android {
     buildToolsVersion "30.0.0-rc2"
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 29
     }
 }
@@ -31,6 +31,6 @@ dependencies {
     implementation "androidx.palette:palette:$androidSupportVersion"
     implementation "androidx.recyclerview:recyclerview:$androidSupportVersionNew"
     implementation "androidx.cardview:cardview:$androidSupportVersion"
-    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.6.0'
     implementation files('libs/volley.jar')
 }

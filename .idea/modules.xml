@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/0. Android-Android-MaterialApp.iml" filepath="$PROJECT_DIR$/0. Android-Android-MaterialApp.iml" group="Android-MaterialApp" />
       <module fileurl="file://$PROJECT_DIR$/Android-MaterialApp.iml" filepath="$PROJECT_DIR$/Android-MaterialApp.iml" group="Android-MaterialApp" />
       <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" group="Android-MaterialApp/XYZReader" />
     </modules>
