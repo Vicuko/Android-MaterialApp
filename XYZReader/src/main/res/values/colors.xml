@@ -22,4 +22,7 @@
     <color name="colorPrimaryDark">#BD3B0B</color>
     <color name="colorAccent">#009C00</color>
     <color name="colorText">#000000</color>
+
+<!--    Detail header-->
+    <color name="colorPrimaryDarkBackground">#66BD3B0B</color>
 </resources>
