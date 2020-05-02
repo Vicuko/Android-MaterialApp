@@ -18,8 +18,8 @@
             android:clipToPadding="false"
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
-            android:paddingTop="8dp"
-            android:paddingBottom="28dp"
+            android:paddingTop="@dimen/recyclerview_padding_top"
+            android:paddingBottom="@dimen/recyclerview_padding_bottom"
             android:scrollbarStyle="outsideOverlay" />
 
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
@@ -62,7 +62,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
-                        app:layout_constraintGuide_end="16dp" />
+                        app:layout_constraintGuide_end="@dimen/guideline_end" />
 
                 </androidx.constraintlayout.widget.ConstraintLayout>
 
