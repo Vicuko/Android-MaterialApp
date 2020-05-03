@@ -97,7 +97,7 @@
         </com.google.android.material.appbar.CollapsingToolbarLayout>
     </com.google.android.material.appbar.AppBarLayout>
 
-    <ImageButton
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/share_fab"
         android:layout_width="@dimen/fab_dim"
         android:layout_height="@dimen/fab_dim"

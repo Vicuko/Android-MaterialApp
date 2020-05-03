@@ -6,6 +6,7 @@
     <dimen name="recyclerview_padding_bottom">28dp</dimen>
     <dimen name="guideline_end">16dp</dimen>
 
+    <dimen name="cardview_elevation">8dp</dimen>
     <dimen name="cardview_margin">4dp</dimen>
 
     <dimen name="card_image_height">100dp</dimen>
